@@ -6,6 +6,26 @@ __pycache__/
 # C extensions
 *.so
 
+# Data
+data/
+datasets/
+*.csv
+*.json
+*.jsonl
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.bin
+*.onnx
+*.ckpt
+*.weights
+
 # Distribution / packaging
 .Python
 build/
